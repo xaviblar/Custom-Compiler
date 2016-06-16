@@ -1,0 +1,6 @@
+C:\Users\Xavier\Downloads\Progra_Compiladores\Progra Compiladores\prograCompi\prograCompi\obj\Debug\LexerProgra.cs
+C:\Users\Xavier\Downloads\Progra_Compiladores\Progra Compiladores\prograCompi\prograCompi\obj\Debug\ParserProgra.cs
+C:\Users\Xavier\Downloads\Progra_Compiladores\Progra Compiladores\prograCompi\prograCompi\obj\Debug\ParserPrograListener.cs
+C:\Users\Xavier\Downloads\Progra_Compiladores\Progra Compiladores\prograCompi\prograCompi\obj\Debug\ParserPrograBaseListener.cs
+C:\Users\Xavier\Downloads\Progra_Compiladores\Progra Compiladores\prograCompi\prograCompi\obj\Debug\ParserPrograVisitor.cs
+C:\Users\Xavier\Downloads\Progra_Compiladores\Progra Compiladores\prograCompi\prograCompi\obj\Debug\ParserPrograBaseVisitor.cs

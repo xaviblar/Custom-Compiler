@@ -1,0 +1,36 @@
+class AllProds
+class Point {  //DECLARACION DE CLASES 
+     int x,y;        //DECLARACION DE CAMPOS DENTRO DE CLASES
+}
+  Point pArr;  //DECLARACION DE VARIABLES GLOBALES DE TODO TIPO
+  char[] z;
+  int intGlobal;
+  //const int constGlobal=2; //SE IMPLEMENTO LA DECLARACION DE VARIABLES GLOBALES TIPO CONST, SIN EMBARGO NO SE 
+                                                //LOGRO IMPLEMENTAR LA INICIALIZACION DE LA VARIABLE
+{
+int metodoInt(int i)  //DECLARACION DE METODOS DE TODO TIPO DE RETORNO, CON CUALQUIER TIPO Y CANTIDAD DE
+                                            //PARAMETROS
+int bla;       //DECLARACION DE VARIABLES LOCALES DE TODO TIPO
+{
+           bla=25; //ASIGNACION DE VALORES A TODO TIPO DE VARIABLES
+           return i*bla;
+}
+void Main()  //DECLARACION DE METODO PRINCIPAL MAIN
+      int pp;
+      int zz;
+      {
+           pp=5;
+           z=new char[2]; //ASIGNACION DE MEMORIA A ARREGLOS
+           z[0]='x';   //ASIGNACION DE VALORES A POSICIONES DE ARREGLOS
+           write(z[0]);  //IMPLEMENTACION DE METODO WRITE
+            zz=metodoInt(pp);// LLAMADA A METODOS CON PASADA DE PARAMETROS Y ASIGNACION DEL RETORNO
+            zz++;  //RESTA UNO
+            zz--;  //SUMA UNO
+            write(zz);
+            if(zz<pp) //IMPLEMENTACION DE CONDICIONES
+            {
+                write(pp);
+           }
+      }
+  }   
+
